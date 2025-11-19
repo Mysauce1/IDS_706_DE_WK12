@@ -28,7 +28,7 @@ Sets up and runs the docker container.
 
 ## Dashboard and Analysis
 
-Here is the dashboard:
+Here is the dashboard. Press play to watch the dashboard update in real time:
 
 https://github.com/user-attachments/assets/c3eb5985-afdc-48bd-bf0a-3f42a5478df7
 
