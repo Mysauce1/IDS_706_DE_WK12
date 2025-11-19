@@ -30,8 +30,8 @@ Sets up and runs the docker container.
 
 Here is the dashboard:
 
-(Insert video or gif of dashboard)
+![real_time_rideshare_dashboard](https://github.com/user-attachments/assets/5e0d8f7e-154c-4e34-a801-016c44dcbafc)
 
-(Insert image for visualizations)
+<img width="2280" height="1583" alt="Screenshot 2025-11-18 180659" src="https://github.com/user-attachments/assets/8da8c34b-a82c-4812-97bd-94a41d26ef63" />
 
 Based on the metrics in the dashboard, the total revenue generated is a little under $11,000, with an average fare of about $55. The average rating is about 4.2/5. While this isn't a terrible overall rating, it does show that improvements can (and probably should) be made. One way to explore this deeper is to calculate the average rating for each city and see if there are any cities with particularly low ratings. From the bar chart of revenue by vehicle type, we see that luxury vehicles generate the most revenue. This is probably because luxury vehicles charge more than the other vehicle types. SUV is the second highest revenue-generating vehicle type, which may be because the cities of interest are tourist-heavy cities and they have a lot of activities for large crowds.
