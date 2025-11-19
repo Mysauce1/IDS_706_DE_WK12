@@ -30,7 +30,7 @@ Sets up and runs the docker container.
 
 Here is the dashboard:
 
-![real_time_rideshare_dashboard](https://github.com/user-attachments/assets/5e0d8f7e-154c-4e34-a801-016c44dcbafc)
+https://github.com/user-attachments/assets/c3eb5985-afdc-48bd-bf0a-3f42a5478df7
 
 <img width="2280" height="1583" alt="Screenshot 2025-11-18 180659" src="https://github.com/user-attachments/assets/8da8c34b-a82c-4812-97bd-94a41d26ef63" />
 
